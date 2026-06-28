@@ -5,7 +5,7 @@ Daily Schedule + Weather Notifier
 - Weather data from wttr.in (free, no API key required)
 - Zero dependencies — Python 3 stdlib only
 
-GitHub: https://github.com/<your-username>/daily-push
+GitHub: https://github.com/Sver0411/daily-push
 """
 
 import json

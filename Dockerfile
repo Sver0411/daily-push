@@ -1,6 +1,6 @@
 FROM python:3.11-alpine
 
-LABEL maintainer="https://github.com/<your-username>/daily-push"
+LABEL maintainer="https://github.com/Sver0411/daily-push"
 LABEL description="Daily course schedule + weather notifier"
 
 # Set timezone

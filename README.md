@@ -29,7 +29,7 @@
 ### 1. Clone
 
 ```bash
-git clone https://github.com/<your-username>/daily-push.git
+git clone https://github.com/Sver0411/daily-push.git
 cd daily-push
 ```
 
